@@ -1,1 +1,5 @@
 update count=1
+Git is a distributed version control system
+Git is free software distributed undeer the GPL
+Git has a mutable index called tsage
+Git tracks changes of files
